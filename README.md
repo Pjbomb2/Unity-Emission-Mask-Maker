@@ -28,5 +28,6 @@ On the output mask, click and dragging allows you to delete parts of the mask
 
 ## Final Words
 If you have any ideas for stuff to add to this, let me know, either through github issues or some other way, same goes for if something is unclear or buggy or just not working, let me know so I can fix it
+You can contact me easiest through my discord: Pjbomb2#6129
 </br>
 Thanks!
